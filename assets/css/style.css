@@ -7,3 +7,12 @@ body{
 .logo{
     width: 40px;
 }
+.footer-wrap{
+    display: flex;
+    justify-content: space-around;
+}
+.nav-black {
+    background-color: #000;
+    opacity: 0.9;
+    color: white;
+  }

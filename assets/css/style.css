@@ -3,16 +3,27 @@ body{
     padding: 0%;
     background-color: #000;
     color: #fff;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 100;
 }
 .logo{
     width: 40px;
 }
+.navbar-brand{
+    font-family: 'Dancing Script', cursive;
+    
+}
 .footer-wrap{
     display: flex;
     justify-content: space-around;
+    font-family: 'Dancing Script', cursive;
 }
 .nav-black {
     background-color: #000;
     opacity: 0.9;
     color: white;
   }
+h4{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+}
